@@ -2,6 +2,7 @@ baseURL = "https://luisjosetorres12.github.io/"
 languageCode = "es-co"
 title = "Cibersecurity Notes by Luisjo"
 theme = "PaperMod"
+publishDir = "docs"
 
 [params]
   author = "Luis Torres"

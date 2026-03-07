@@ -1,0 +1,8 @@
+baseURL = "https://luisjosetorres12.github.io/"
+languageCode = "es-co"
+title = "Cibersecurity Notes by Luisjo"
+theme = "PaperMod"
+
+[params]
+  author = "Luis Torres"
+  description = "Notas de Ciberseguridad, una guia de mi camino para ir aprendiendo y documentando cosas"
